@@ -25,3 +25,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - Error Handling
 - Pagination and More Button to get the next page of images
 - Caching searches in local storage with a TTL of 24 hours
+- Testing
